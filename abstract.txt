@@ -1,0 +1,25 @@
+Practice breaking it down! Choose one of the following to explain as if the listener has never done it before:
+
+What are the steps involved in making a phone call?
+
+listen to dial tone =>dial 10 digit number (us)=>wait for receiving end to answer=> if no answer, leave voicemail if it's set up
+
+In our “Say Hi” example, if the Say Hi part of the program never runs, how would you narrow down the cause of the problem? Explain the process and use a roadmap to visualize it.
+
+I would work backwards and follow it back until we identify where the issue started. Also I would follow the steps backwards until we find the last step that worked correctly
+
+username input=>user button click=> say Hi
+ 
+
+Create a problem-solving example using a roadmap and the process of elimination for narrowing down issues of your own. You already use this skill daily. Break down and explain a problem you solve in your everyday life.
+
+Signing onto my online banking 
+
+
+                           check if username and password was entered correctly <=====      
+                                                         
+
+go on the Bank of America website => enter username => enter password => Click sign on 
+
+            <==== Getting error message 
+=> Username and password does not match records
